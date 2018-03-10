@@ -2,7 +2,7 @@
 // Make me compile!
 
 fn something() -> String {
-    "hi!"
+    format!("Hello again!")
 }
 
 fn main() {
